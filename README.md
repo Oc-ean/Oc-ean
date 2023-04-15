@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-- I'm oc-ean
+- I'm Oc-ean
 - 🌱I build android apps with flutter
-- 👯 I’m looking to collaborate on any projects at hand.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: michealolatunbosun603@gmial.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👯 I’m looking forward to collaborate on any projects at hand.
+- 📫 How to reach me: michealolatunbosun603@gmail.com
 -->
+
+
