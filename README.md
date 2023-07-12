@@ -7,4 +7,4 @@
 -->
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Oc-eana&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Oc-ean&show_icons=true)
