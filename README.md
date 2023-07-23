@@ -7,7 +7,7 @@
 -->
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Oc-ean&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Oc-ean&show_icons=true&text_color=daf7dc&bg_color=191919)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Oc-ean)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Oc-ean&text_color=daf7dc&bg_color=191919)
 </div>
