@@ -6,7 +6,7 @@
 - 📫 How to reach me: michealolatunbosun603@gmail.com
 -->
 
-  ### 🧰 Languages and Tools
+### 🧰 Languages and Tools
 
 <img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"/>
 <img align="left" alt="Vue" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
