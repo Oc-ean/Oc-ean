@@ -25,7 +25,7 @@
 
 ### 📊 My GitHub Stats
 
-![Ocean's GitHub stats](https://github-readme-stats.vercel.app/api?username=oc-ean&show_icons=true&theme=dracula)
+![Ocean's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oc-ean&show_icons=true&theme=dracula)
 
 #
 
